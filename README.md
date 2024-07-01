@@ -13,3 +13,58 @@ optimization techniques tailored toward hardware acceleration, GurdianMPC achiev
 low latency. Specifically, our implementation on Field Programmable Gate Arrays (FPGAs) computational
 power evaluate a typical NN up to 13.44× faster during the online phase compared to its counterpart running
 on software, with a trade-off against a negligible offline computation time.
+# Dependencies:
+Install dependencies on Ubuntu:
+g++: 
+```
+ $ sudo apt-get install g++
+```
+OpenSSL: 
+```
+  $ sudo apt-get install libssl-dev
+```
+boost:
+```
+  $ sudo apt-get install libboost-all-dev
+```
+cmake:
+```
+  $ sudo apt-get install software-properties-common
+  $ sudo add-apt-repository ppa:george-edison55/cmake-3.x
+  $ sudo apt-get update
+  $ sudo apt-get upgrade
+  $ sudo apt-get install cmake
+```
+TinyGarble:
+```
+  $ cd TintGarbe 
+  $./configure
+  $ cd bin
+  $ make
+```
+ARM2GC:
+```
+  $ sudo apt install binutils-arm-linux-gnueabi
+  $ sudo apt install gcc-arm-linux-gnueabi
+```
+TinyGarble2: 
+```
+  $ git clone https://github.com/IntelLabs/TinyGarble2.0.git
+  $ git clone https://github.com/IntelLabs/emp-tool.git
+  $ git clone https://github.com/IntelLabs/emp-ot.git
+  $ sudo ./TinyGarble2.0/install_scripts/install_dependencies.sh
+  $ cd emp-tool
+  $ cmake . -DCMAKE_INSTALL_PREFIX=<install_path>
+  $ make -j 
+  $ make install -j
+  $ cd ..
+  $ cd emp-ot
+  $ cmake . -DCMAKE_INSTALL_PREFIX=<install_path>
+  $ make -j 
+  $ make install -j 
+  $ cd ..
+  $ cd TinyGarble2.0
+  $ cmake . -DCMAKE_INSTALL_PREFIX=<install_path>
+  $ make -j 
+  $ make install -j
+```
