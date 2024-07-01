@@ -68,3 +68,10 @@ TinyGarble2:
   $ make -j 
   $ make install -j
 ```
+References
+---
+* [1] M. Hashemi, S. Roy, D. Forte, F. Gangi, “HWGN2: Side-Channel Protected NNs Through Secure and Private Function Evaluation,”  Security, Privacy, and Applied Cryptography Engineering (SPACE22), vol. 13783, pp. 225-248, 2022. [Online]. Available: https://link.springer.com/chapter/10.1007/978-3-031-22829-2_13.
+
+* [2] T. K. Frederiksen, T. P. Jakobsen, J. B. Nielsen, R. Trifiletti, “TinyLEGO: An Interactive Garbling Scheme for Maliciously Secure Two-Party Computation,” IACR Cryptology ePrint Archive, vol. 2015, p. 309, 2015. [Online]. Available: http://ia.cr/2015/309.
+
+* [3] J. B. Nielsen, T. Schneider, R. Trifiletti, "Constant Round Maliciously Secure 2PC with Function-independent Preprocessing using LEGO", in The Network and Distributed System Security Symposium (NDSS) 2017. Availible: http://ia.cr/2016/1069.
