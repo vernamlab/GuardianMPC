@@ -78,4 +78,3 @@ int main() {
 ### Additional Notes
 
 - **Paper Reference**: For detailed information on the GuardianMPC methodology and performance evaluation, refer to the paper *"GuardianMPC: Backdoor-resilient Neural Network Computation"* by Hashemi et al.
-- **Hardware Acceleration**: If using FPGA acceleration, ensure the hardware is correctly configured as described in the experimental setup section of the paper.
