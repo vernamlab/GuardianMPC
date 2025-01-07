@@ -1,3 +1,0 @@
-#!/bin/bash
-SINGLE_ITERS=10
-ITERS=10
