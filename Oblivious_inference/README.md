@@ -139,5 +139,3 @@ int main() {
 - *"GuardianMPC: Backdoor-resilient Neural Network Computation"* by Hashemi et al.
 
 ---
-
-This README provides all the necessary steps to use the oblivious inference feature of GuardianMPC. Let me know if you'd like to add or adjust any details!
