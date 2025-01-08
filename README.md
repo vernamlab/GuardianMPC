@@ -149,6 +149,6 @@ GuardianMPC/
 
 2. **TinyLEGO**: *"An Interactive Garbling Scheme for Maliciously Secure Two-Party Computation,"* IACR Cryptology ePrint Archive, vol. 2015, p. 309, 2015. [Online](http://ia.cr/2015/309).
 
-3. **GuardianMPC Paper**: *"Backdoor-Resilient Neural Network Computation."*
+3. **GuardianMPC Paper**: *"GuardianMPC: Backdoor-resilient Neural Network Computation."*
 
 ---
