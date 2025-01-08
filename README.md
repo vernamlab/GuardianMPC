@@ -145,9 +145,9 @@ GuardianMPC/
 
 ## References
 
-1. **HWGN2**: *"Side-Channel Protected NNs Through Secure and Private Function Evaluation,"* Security, Privacy, and Applied Cryptography Engineering (SPACE22), vol. 13783, pp. 225-248, 2022. [Online](https://link.springer.com/chapter/10.1007/978-3-031-22829-2_13).
+1. **HWGN2**: *"Side-Channel Protected NNs Through Secure and Private Function Evaluation,"* Security, Privacy, and Applied Cryptography Engineering (SPACE22), vol. 13783, pp. 225-248, 2022. [Online](https://link.springer.com/chapter/10.1007/978-3-031-22829-2_13)[GitHub Repository](https://github.com/vernamlab/HWGN2).
 
-2. **TinyLEGO**: *"An Interactive Garbling Scheme for Maliciously Secure Two-Party Computation,"* IACR Cryptology ePrint Archive, vol. 2015, p. 309, 2015. [Online](http://ia.cr/2015/309).
+2. **TinyLEGO**: *"An Interactive Garbling Scheme for Maliciously Secure Two-Party Computation,"* IACR Cryptology ePrint Archive, vol. 2015, p. 309, 2015. [Online](http://ia.cr/2015/309)[GitHub Repository](https://github.com/AarhusCrypto/TinyLEGO).
 
 3. **GuardianMPC Paper**: *"GuardianMPC: Backdoor-resilient Neural Network Computation."*
 
